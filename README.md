@@ -36,6 +36,7 @@ Experimenting with how AI can augment the way people work, learn and solve probl
 ## 🔎 How I Approach Problems
 
 I naturally tend to ask based on the 5 W"s:
+
 = What is happening?
 
 = Why is it happening?
@@ -44,7 +45,7 @@ I naturally tend to ask based on the 5 W"s:
 
 = What does the data tell us?
 
-= Which approach is needed to improve?
+= Which approach is needed to improve this transformation?
 
 = When does the approach solve it?
 
