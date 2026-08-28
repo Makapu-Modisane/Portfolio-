@@ -1,7 +1,9 @@
 # Portfolio-
+
+<! -- Section1: Introduce my self-->
 Business Systems Analyst / Data Analyst
 
-Hey, I'm Makapu 👋🏽
+Hey, I'm Makapu 👋🏽, A Business System Analyst |Data Analysts |Solutions Architect |Tutor|  
 Systems • Data • Technology • Curiosity
 
 Welcome to my corner of GitHub.
@@ -15,22 +17,22 @@ It is part of how I explore, learn, create and solve problems.
 
 ## 🧠 What I'm Into : 
 
-**🔍 Business & Systems Analysis**
+**🔍 Business & Systems Analysis :**
 Understanding problems, processes, requirements and how different parts of a system connect.Building innnovative solutions.
 
-**📊 Data Analytics**
+**📊 Data Analytics :**
 Turning raw data into patterns, insights and better decisions.
 
-**🗄️ Databases**
+**🗄️ Databases :**
 Designing, querying and understanding how information is structured, stored and connected.
 
-**💻 Technology**
+**💻 Technology :**
 Exploring new technologies and figuring out where they actually make sense.
 
-**☁️ Cloud Computing**
+**☁️ Cloud Computing :** 
 Learning how modern applications, data and services are built and delivered.
 
-**🤖 AI**
+**🤖 Artifical Intelligence :**
 Experimenting with how AI can augment the way people work, learn and solve problems.
 
 ## 🔎 How I Approach Problems
