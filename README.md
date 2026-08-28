@@ -1,5 +1,5 @@
 # Portfolio-
-I am Business Systems Analyst / Data Analyst
+Business Systems Analyst / Data Analyst
 
 Hey, I'm Makapu 👋🏽
 Systems • Data • Technology • Curiosity
@@ -17,7 +17,7 @@ It's part of how I explore, learn, create and solve problems.
 🧠 What I'm Into
 
 🔍 Systems Analysis
-Understanding problems, processes, requirements and how different parts of a system connect.
+Understanding problems, processes, requirements and how different parts of a system connect.Building innnovative solutions.
 
 📊 Data Analytics
 Turning raw data into patterns, insights and better decisions.
